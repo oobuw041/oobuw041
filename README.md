@@ -1,7 +1,7 @@
 ## 👋 Hi I'm keno!
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech</br>
-👩🏻‍🎓 Studied Computer Science at the University of Ottawa</br>
+👩🏻‍🎓 Studing  Software Engineering at the University of Ottawa</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oghenekeno-obuwoma-5a6a93191/) 
